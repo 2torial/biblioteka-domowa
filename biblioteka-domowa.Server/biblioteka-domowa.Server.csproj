@@ -29,6 +29,7 @@
     <ProjectReference Include="..\biblioteka-domowa.client\biblioteka-domowa.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+    <ProjectReference Include="..\CollectionMenager\CollectionMenager.csproj" />
   </ItemGroup>
 
 </Project>
